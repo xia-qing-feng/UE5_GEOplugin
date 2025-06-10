@@ -1,7 +1,0 @@
-{
-	"SourceFiles": [
-		"E:\\UE\\Projects\\QFGeo\\Plugins\\Geo\\Source\\Geo\\Geo.Build.cs",
-		"E:\\UE\\Projects\\QFGeo\\Plugins\\Geo\\Source\\ThirdParty\\GeoLibrary\\GeoLibrary.Build.cs"
-	],
-	"EngineVersion": "5.4.4"
-}
