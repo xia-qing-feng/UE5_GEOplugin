@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\projects\\qfgeo\\plugins\\geo\\source\\geo\\private\\geo.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\projects\\qfgeo\\intermediate\\build\\win64\\x64\\qfgeoeditor\\development\\unrealed\\sharedpch.unrealed.project.rtti.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue\\projects\\qfgeo\\plugins\\geo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\geo\\definitions.geo.h",
+            "e:\\ue\\projects\\qfgeo\\plugins\\geo\\source\\geo\\public\\geo.h",
+            "e:\\game\\ue_5.4\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "e:\\game\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "e:\\game\\ue_5.4\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "e:\\game\\ue_5.4\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "e:\\game\\ue_5.4\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "e:\\game\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "e:\\game\\ue_5.4\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "e:\\game\\ue_5.4\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "e:\\ue\\projects\\qfgeo\\plugins\\geo\\source\\thirdparty\\geolibrary\\public\\geolibrary\\examplelibrary.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

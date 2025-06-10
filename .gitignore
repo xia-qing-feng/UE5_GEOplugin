@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/QFGeo.uproject
+!/Source/
+!/Config/
+!/Content/
+/Content/StarterContent/*
+!/Plugins/
+!/vscconfig/

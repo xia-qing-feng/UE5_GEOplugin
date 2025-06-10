@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Geo.cpp.obj": [
+			"Assimp4UE.gen.cpp.obj",
+			"ChangeableMesh.gen.cpp.obj",
+			"Geo.init.gen.cpp.obj",
+			"GeoScript.gen.cpp.obj",
+			"MyGameModeBase.gen.cpp.obj",
+			"MyPlayerController.gen.cpp.obj",
+			"MyUserWidget.gen.cpp.obj",
+			"ProMeshTest.gen.cpp.obj",
+			"ShowModels.gen.cpp.obj",
+			"Geo.cpp.obj"
+		]
+	}
+}

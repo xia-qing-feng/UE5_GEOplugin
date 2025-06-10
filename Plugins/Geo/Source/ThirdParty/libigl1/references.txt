@@ -1,0 +1,3 @@
+{
+    ["C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\.xmake\\240606\\xrepo\\working"] = "240606"
+}

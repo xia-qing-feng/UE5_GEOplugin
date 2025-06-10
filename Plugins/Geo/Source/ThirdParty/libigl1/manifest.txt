@@ -1,0 +1,54 @@
+{
+    arch = "x64",
+    artifacts = {
+        installdir = [[C:\Users\Administrator\AppData\Local\.xmake\packages\l\libigl\v2.4.0\0b9b14a5e7e84f3d88c5013b4eb7e913]]
+    },
+    configs = {
+        cgal = false,
+        debug = false,
+        embree = false,
+        header_only = true,
+        imgui = false,
+        pic = true,
+        runtimes = "MT",
+        shared = false
+    },
+    deps = {
+        eigen = {
+            buildhash = "1af8f25c61b04e19afd2699bba8d04c0",
+            version = "3.4.0"
+        }
+    },
+    description = "Simple C++ geometry processing library.",
+    envs = {
+        PATH = {
+            "bin"
+        }
+    },
+    librarydeps = {
+        "eigen"
+    },
+    license = "MPL-2.0",
+    mode = "release",
+    name = "libigl",
+    pathenvs = {
+        "PYTHONPATH",
+        "LD_LIBRARY_PATH",
+        "CMAKE_PREFIX_PATH",
+        "PATH",
+        "PKG_CONFIG_PATH",
+        "ACLOCAL_PATH",
+        "DYLD_LIBRARY_PATH"
+    },
+    plat = "windows",
+    repo = {
+        branch = "master",
+        commit = "b9fdcf71e60fc6b51a0e7d6db6a7f6d3923d8846",
+        name = "xmake-repo",
+        url = "https://gitee.com/tboox/xmake-repo.git"
+    },
+    vars = {
+        syslinks = "comdlg32"
+    },
+    version = "v2.4.0"
+}
